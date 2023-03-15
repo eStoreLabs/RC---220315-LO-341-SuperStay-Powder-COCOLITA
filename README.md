@@ -6,7 +6,7 @@
 
 <!-- please enter link to site preview here -->
 
-[Project live site](https://estorelabs.github.io/RC---220315-LO-341-SuperStay-Powder-GENERIC/)
+[Project live site](https://estorelabs.github.io/RC---220315-LO-341-SuperStay-Powder-COCOLITA/index.html)
 
 ## PROJECT PREVIEW
 
@@ -19,6 +19,8 @@
 <!-- please enter link to preview designs -->
 
 ### DESTINATION (name of e-retailer or general/pure)
+
+Cocolita
 
 <!-- please enter e-retailers name -->
 
